@@ -1,0 +1,13 @@
+﻿  main_des.cpp
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(50,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(54,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(88,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(319,2): error C2653: 'fs': is not a class or namespace name
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(319,6): error C2065: 'path': undeclared identifier
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(319,11): error C2146: syntax error: missing ';' before identifier 'p'
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(319,11): error C3861: 'p': identifier not found
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(320,40): error C2065: 'p': undeclared identifier
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(322,31): error C2065: 'p': undeclared identifier
+C:\vscode\DES_algorithm_enc_dec\main_des.cpp(323,27): error C2065: 'p': undeclared identifier
